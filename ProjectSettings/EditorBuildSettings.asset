@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/ExampleAssets/Scenes/ClassFollow.unity
+    guid: 1098bd34503bab441a9bbd884a1040f1
+  - enabled: 1
     path: Assets/ExampleAssets/Scenes/Lab7Markers.unity
     guid: d0e3759af02a9de4ea68954ca36a9190
   - enabled: 1
